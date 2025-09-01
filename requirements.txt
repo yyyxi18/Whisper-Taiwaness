@@ -1,0 +1,10 @@
+# 本地台語語音辨識工具依賴
+torch
+torchvision
+torchaudio
+transformers
+numpy
+librosa
+soundfile
+requests
+python-dotenv
